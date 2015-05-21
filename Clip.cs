@@ -6,6 +6,8 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 using System.Windows;
 
+// Clip.cs and all source (discluding Keyhook.cs) is intellectual property of Emmett McFarlane
+
 namespace Clip
 {
     public partial class frmClip : Form
