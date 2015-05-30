@@ -6,7 +6,6 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 using System.Windows;
 
-// Clip.cs and all source (discluding Keyhook.cs) is intellectual property of Emmett McFarlane
 /*
 Clip allows multiple clipboards with a clean interface and efficient keybinds
 Copyright (C) 2015 Emmett McFarlane
