@@ -60,16 +60,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clip.cs">
+    <Compile Include="Resources\Clip.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Clip.Designer.cs">
+    <Compile Include="Designer\Clip.Designer.cs">
       <DependentUpon>Clip.cs</DependentUpon>
     </Compile>
-    <Compile Include="Keyhook.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Resources\Keyhook.cs" />
+    <Compile Include="Resources\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Clip.resx">
+    <EmbeddedResource Include="Properties\Clip.resx">
       <DependentUpon>Clip.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
